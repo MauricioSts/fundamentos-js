@@ -62,3 +62,14 @@ form button:hover {
   max-width: 300px;
   
 }
+table{
+  margin: 0 auto;
+}
+
+table td {
+  padding: 0 20px 0 20px ;
+}
+
+ .imc {
+  padding-right: 125px;
+}
